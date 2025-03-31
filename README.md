@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">My name is Guilherme Barbosa, and I'm a Software Engineering student from Anápolis, Goiás.<br><br>🔭 I'm working as a trainee at FTT - UniEvangélica.<br>📚 I'm currently learning Node.js.<br>⚡ In my free time, I watch superhero movies and listen to rock music. 🤘</p>
+<p align="left">My name is Guilherme Barbosa and I'm a Software Engineering student from Anápolis, Goiás.<br><br>🔭 I'm working as a trainee at FTT - UniEvangélica.<br>📚 I'm currently learning Node.js.<br>⚡ In my free time, I watch superhero movies and listen to rock music. 🤘</p>
 
 ###
 
